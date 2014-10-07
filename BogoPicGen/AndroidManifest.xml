@@ -30,6 +30,7 @@
             </intent-filter>
             
             <!-- Image capture in Standard mode -->
+            
             <intent-filter>
                 <action android:name="android.media.action.IMAGE_CAPTURE" />
 
